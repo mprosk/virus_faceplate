@@ -2,3 +2,7 @@
 
 When using the vocoder built into the Virus TI series synthesizer, the knobs and buttons of the filter section are replaced with vocoder-specific functions. This faceplate slides over the filter section, providing legends and references when using the vocoder.
 
+![render](https://raw.githubusercontent.com/mprosk/virus_faceplate/main/img/render.png)
+
+![irl](https://raw.githubusercontent.com/mprosk/virus_faceplate/main/img/irl.jpg)
+

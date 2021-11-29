@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name vocoder_faceplate)(type KiCad)(uri ${KIPRJMOD}/vocoder_faceplate.pretty)(options "")(descr ""))
+)
